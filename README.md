@@ -1,2 +1,2 @@
 # Projects
-Simple some of projects(Python and machineLearning)
+Simple some of my projects(Python and machineLearning)
