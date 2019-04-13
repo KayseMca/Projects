@@ -2,6 +2,7 @@
 ### Clustering — Unsupervised Learning
 
 #### requirements:
-*Jupyter notebook
-*Anaconda
+
+* Jupyter notebook
+* Anaconda
 
